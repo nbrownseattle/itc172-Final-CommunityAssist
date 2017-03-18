@@ -1,0 +1,7 @@
+Group: Nicole Brown, Rebecca Scott
+
+We created via the wizard:
+
+We then modified the following:
+-Edited the CSS to change the site color to purple.
+-Edited the index model. Removed the 
